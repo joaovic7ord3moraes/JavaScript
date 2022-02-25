@@ -1,0 +1,21 @@
+~~OPERADORES~~
+O JS tem varias familias de operadores...
+*Aritmetico
+
+5 + 2 -> 7
+5 - 2 -> 3
+5 * 2 -> 10
+5 / 2 -> 2.5
+5 % 2 -> 1 
+5 ** 2 -> 25 cinco ao quadrado
+ 
+*atribuição
+
+var A = 5 + 3
+
+Auto-atribuições
+
+var n = 3
+*relacionais
+*logicos
+*ternarios 

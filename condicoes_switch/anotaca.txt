@@ -1,0 +1,18 @@
+1 - Perguntar uma distância em anos luz
+
+2 - Oferecer uma lista de operações com 
+Parsec(pc)
+Unidade astronomica(AU)
+Quilometros(km)
+3 - Perguntar qual operação deseja realizar
+A resposta receberá o número da opção escolhida
+
+4 - Utilize o switch para verificar a opção escolhida pelo usuario
+
+5 - exiba com alerta contendo a distância em anos luz e a operação convertida desejada
+
+6 - Utilize as seguintes conversôes
+
+1 ano luz = 0,306601
+1 ano luz = 63241,1 AU
+1 ano luz = 9,5 * 10^12

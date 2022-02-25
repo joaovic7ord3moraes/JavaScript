@@ -1,0 +1,14 @@
+1970 - Guerra Fria -> Criação da DARPA criação da REDE que ficou 
+conhecida como  Arpanet que mais tarde ficou conhecida como Internet
+1993 - Tinbernes Lee criador do W.W.W (word wide web) ->
+1994 -> Mark andason ajudou a criar a Netscape
+1995 -> Brendon Nike -> Criou de Moca -> no mesmo periodo que
+surgiu a linguagem JAVA -> visto que JAVA era um nome de sucesso e os criadores
+do JS resolveu batizar a linguagem de JavaScrript.
+1997 -> Ecma empresa padronizadora que padronizou o JavaScript que se tornou EcmaScript
+2002 -> Fundação Mozila,  hoje conhecido como firefox
+2008 -> surgiu o google chrome
+2009 -> V8 - Gerava códigos git
+2010 -> nodeJS -> roda JS em outros navegadores 
+  ----------------------------------------------------------
+                         EcmaScrip
